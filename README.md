@@ -18,6 +18,6 @@ o	Momentum : 0.9
 o	weight_decay : 0.0001
 o	Epochs : 10
 
-•	Model gave accuracy of 90~92 % during training while mAP was 0.48~0.49.
+•	Model gave accuracy of 90-92 during training while mAP was 0.48-0.49.
 •	Due to the fact that pretrained model was already built on these classes the detection was good even though mAP was not much.
 
